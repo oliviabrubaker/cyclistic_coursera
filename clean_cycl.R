@@ -57,5 +57,5 @@ rm(twen1_calc)
 rm(twen1_no_neg_staff)
 
 # Export cleaned and calculated data into a .csv
-write.csv(twen1, "q1_2020.csv")
+write.csv(twen1, "cycl_q1_2020.csv")
                                  
